@@ -1,4 +1,5 @@
-
+## Outcome
+![horrible](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/horrible.mp4)
 
 ## Wobbling-3D
 
