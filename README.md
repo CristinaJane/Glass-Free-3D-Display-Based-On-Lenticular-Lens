@@ -1,5 +1,5 @@
 ## Outcome
-[![ScreenShot](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/horrible.jpg)](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/horrible.mp4?raw=true)
+[![ScreenShot](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/horrible.jpg) see it in my homepage](http://njz-page.com/projects.html)
 
 
 ## Wobbling-3D
