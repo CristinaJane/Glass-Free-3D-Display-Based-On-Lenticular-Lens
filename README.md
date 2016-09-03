@@ -1,20 +1,33 @@
 
 
-### AirCraft  (Source Code: https://github.com/zejdtc/Lite3D-Engine)
+## Wobbling-3D
+
+![main](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/1.jpg)
 
 
-- Main-Scene
+![skybox](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/2.jpg)
 
-![main](https://github.com/zejdtc/AirCraft-Based-On-Lite3D/blob/master/ScreenShots/main.png)
+## Glass-Free 3D Display
 
-- Sky Box
+- Steps
 
-![skybox](https://github.com/zejdtc/AirCraft-Based-On-Lite3D/blob/master/ScreenShots/skybox.png)
+![collision](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/3.jpg)
 
-- Collision
+- Raw images and reconstructed image
 
-![collision](https://github.com/zejdtc/AirCraft-Based-On-Lite3D/blob/master/ScreenShots/collision.png)
+![particle](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/4.jpg)
 
-- Particle System
+- Output
 
-![particle](https://github.com/zejdtc/AirCraft-Based-On-Lite3D/blob/master/ScreenShots/particle.png)
+![particle](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/5.jpg)
+
+
+- Raw images and reconstructed image
+
+
+![particle](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/6.jpg)
+
+- Output
+
+![particle](https://github.com/zejdtc/Glass-Free-3D-Display-Based-On-Lenticular-Lens/blob/master/ScreenShots/7.jpg)
+
